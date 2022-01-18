@@ -1,0 +1,3 @@
+serial_nr;time;product_id;product_description;amount;price;type;campaign
+26;09:51:46;4444;bread;5.0;10.0;q;yes
+26;09:51:46;2222;milk;7.0;9.9;q;no

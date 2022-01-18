@@ -1,0 +1,7 @@
+id;description;price;price_type;campaign_price;campaign_start;campaign_end
+1111;banana;12.5;w;0;0;0
+2222;milk;9.9;q;0;0;0
+3333;snus;32.9;q;0;0;0
+4444;bread;22.9;q;10.0;19950517;20250505
+5555;butter;20.0;q;0;0;0
+6666;potato;3.9;w;1.0;20211014;20211115

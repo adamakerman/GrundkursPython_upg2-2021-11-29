@@ -1,0 +1,7 @@
+serial_nr;time;product_id;product_description;amount;price;type;campaign
+27;10:29:05;2222;milk;5.0;9.9;q;no
+27;10:29:05;1111;banana;7.0;12.5;w;no
+27;10:29:05;5555;butter;1.0;20.0;q;no
+27;10:29:05;2222;milk;1.0;9.9;q;no
+28;10:29:29;4444;bread;5.0;10.0;q;yes
+28;10:29:29;3333;snusdosa;1.0;32.9;q;no
